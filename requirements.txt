@@ -1,0 +1,6 @@
+mcp>=2.3,<3
+pydantic>=2.11,<3
+starlette>=0.46
+uvicorn>=0.34
+httpx>=0.28,<1
+PyJWT>=2.10,<3
